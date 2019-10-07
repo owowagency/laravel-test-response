@@ -9,6 +9,12 @@
         }
     ],
     "require": {
-        "laravel/framework": "^6.0"
+        "laravel/framework": "^6.0",
+        "phpunit/phpunit": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "OwowAgency\\LaravelTestResponse\\": "src/"
+        }
     }
 }
