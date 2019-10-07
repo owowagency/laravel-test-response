@@ -1,0 +1,14 @@
+{
+    "name": "owowagency/laravel-test-response",
+    "description": "An extention to the Laravel TestResponse class.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Thomas van der Veen",
+            "email": "thomas@owow.io"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^6.0"
+    }
+}
