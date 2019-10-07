@@ -1,6 +1,7 @@
 {
     "name": "owowagency/laravel-test-response",
     "description": "An extention to the Laravel TestResponse class.",
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
