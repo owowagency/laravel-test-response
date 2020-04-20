@@ -3,7 +3,7 @@
 namespace OwowAgency\LaravelTestResponse;
 
 use PHPUnit\Framework\Assert as PHPUnit;
-use Illuminate\Foundation\Testing\TestResponse as BaseTestResponse;
+use Illuminate\Testing\TestResponse as BaseTestResponse;
 
 class TestResponse extends BaseTestResponse
 {
